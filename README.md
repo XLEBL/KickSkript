@@ -1,2 +1,10 @@
 # KickSkript
-kicks all chat participants without the possibility of re-entering the chat.
+kicks all chat participants without the possibility of re-entering the chat. DOES NOT WORK WITHOUT AN ASSISTANT OR HOST!!!
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                           
+                                                                FOR AMINO, WITH LOVE XLEBL)))
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
